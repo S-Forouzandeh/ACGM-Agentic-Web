@@ -1,6 +1,7 @@
-# ACGM: Adaptive Cross-Modal Graph Memory
+# Agentic Multi-Modal Web Histories
 
 **Paper:** *Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory*
+
 **Venue:** The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval - SIGIR 2026 
 
 ---
